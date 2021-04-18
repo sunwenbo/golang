@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cffdec5-5fdb-4320-a5f6-2ac66765ba99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/GoCode/8.工程管理" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kdbkY54YuoW3qRvVtxrvpIX7QO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GoCode/9.复合类型/6.切片" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GoCode/9.复合类型/6.切片" />
+      <recent name="$PROJECT_DIR$/GoCode/8.工程管理" />
+      <recent name="$PROJECT_DIR$/GoCode/7.函数系列" />
+      <recent name="$PROJECT_DIR$/GoCode" />
+      <recent name="$PROJECT_DIR$/GoCode/6.流程控制/4.for循环嵌套" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GoCode/9.复合类型" />
+      <recent name="$PROJECT_DIR$/作业" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/GoCode/8.工程管理" />
+      <recent name="$PROJECT_DIR$/GoCode/8.工程管理/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build src/">
+    <configuration name="go build 双色球.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/作业/双色球.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 统计字符出现的次数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/作业/统计字符出现的次数.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoCode/9.复合类型/4.随机数/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoCode/9.复合类型/6.切片/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoCode/9.复合类型/5.二维数组/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build src/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/GoCode/8.工程管理/src/主函数.go" />
+      <directory value="$PROJECT_DIR$/GoCode/8.工程管理/src" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build src/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/GoCode/8.工程管理/src/主函数.go" />
+      <directory value="$PROJECT_DIR$/GoCode/8.工程管理/src" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build src/" />
+      <item itemvalue="Go Build.go build 双色球.go" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (3)" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 双色球.go" />
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="130" width="1071" height="893" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616931893167">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="555" y="130" width="1071" height="893" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1616931893167" />
+    <state x="994" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614324353089">
+      <screen x="0" y="25" width="1680" height="934" />
+    </state>
+    <state x="994" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.934@0.25.1680.934" timestamp="1614324353089" />
+    <state x="1010" y="245" key="#xdebugger.evaluate" timestamp="1615040784287">
+      <screen x="71" y="25" width="1609" height="1025" />
+    </state>
+    <state x="1010" y="245" key="#xdebugger.evaluate/71.25.1609.1025@71.25.1609.1025" timestamp="1615040784287" />
+    <state width="1638" height="342" key="GridCell.Tab.0.bottom" timestamp="1616956964452">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964452" />
+    <state width="779" height="245" key="GridCell.Tab.0.bottom/0.25.1680.934@0.25.1680.934" timestamp="1614529103660" />
+    <state width="930" height="274" key="GridCell.Tab.0.bottom/65.25.1615.1025@65.25.1615.1025" timestamp="1615036050525" />
+    <state width="930" height="274" key="GridCell.Tab.0.bottom/67.25.1613.1025@67.25.1613.1025" timestamp="1615035993004" />
+    <state width="1243" height="274" key="GridCell.Tab.0.bottom/68.25.1612.1025@68.25.1612.1025" timestamp="1615032127645" />
+    <state width="887" height="342" key="GridCell.Tab.0.bottom/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108481" />
+    <state width="1561" height="231" key="GridCell.Tab.0.bottom/74.25.1606.1025@74.25.1606.1025" timestamp="1615043776439" />
+    <state width="1561" height="274" key="GridCell.Tab.0.bottom/77.25.1603.1025@77.25.1603.1025" timestamp="1615030838828" />
+    <state width="1638" height="342" key="GridCell.Tab.0.center" timestamp="1616956964452">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964452" />
+    <state width="779" height="245" key="GridCell.Tab.0.center/0.25.1680.934@0.25.1680.934" timestamp="1614529103660" />
+    <state width="930" height="274" key="GridCell.Tab.0.center/65.25.1615.1025@65.25.1615.1025" timestamp="1615036050524" />
+    <state width="930" height="274" key="GridCell.Tab.0.center/67.25.1613.1025@67.25.1613.1025" timestamp="1615035993003" />
+    <state width="1243" height="274" key="GridCell.Tab.0.center/68.25.1612.1025@68.25.1612.1025" timestamp="1615032127644" />
+    <state width="887" height="342" key="GridCell.Tab.0.center/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108480" />
+    <state width="1561" height="231" key="GridCell.Tab.0.center/74.25.1606.1025@74.25.1606.1025" timestamp="1615043776438" />
+    <state width="1561" height="274" key="GridCell.Tab.0.center/77.25.1603.1025@77.25.1603.1025" timestamp="1615030838827" />
+    <state width="1638" height="342" key="GridCell.Tab.0.left" timestamp="1616956964451">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964451" />
+    <state width="779" height="245" key="GridCell.Tab.0.left/0.25.1680.934@0.25.1680.934" timestamp="1614529103659" />
+    <state width="930" height="274" key="GridCell.Tab.0.left/65.25.1615.1025@65.25.1615.1025" timestamp="1615036050524" />
+    <state width="930" height="274" key="GridCell.Tab.0.left/67.25.1613.1025@67.25.1613.1025" timestamp="1615035993003" />
+    <state width="1243" height="274" key="GridCell.Tab.0.left/68.25.1612.1025@68.25.1612.1025" timestamp="1615032127644" />
+    <state width="887" height="342" key="GridCell.Tab.0.left/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108480" />
+    <state width="1561" height="231" key="GridCell.Tab.0.left/74.25.1606.1025@74.25.1606.1025" timestamp="1615043776438" />
+    <state width="1561" height="274" key="GridCell.Tab.0.left/77.25.1603.1025@77.25.1603.1025" timestamp="1615030838826" />
+    <state width="1638" height="342" key="GridCell.Tab.0.right" timestamp="1616956964452">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964452" />
+    <state width="779" height="245" key="GridCell.Tab.0.right/0.25.1680.934@0.25.1680.934" timestamp="1614529103660" />
+    <state width="930" height="274" key="GridCell.Tab.0.right/65.25.1615.1025@65.25.1615.1025" timestamp="1615036050525" />
+    <state width="930" height="274" key="GridCell.Tab.0.right/67.25.1613.1025@67.25.1613.1025" timestamp="1615035993004" />
+    <state width="1243" height="274" key="GridCell.Tab.0.right/68.25.1612.1025@68.25.1612.1025" timestamp="1615032127644" />
+    <state width="887" height="342" key="GridCell.Tab.0.right/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108481" />
+    <state width="1561" height="231" key="GridCell.Tab.0.right/74.25.1606.1025@74.25.1606.1025" timestamp="1615043776439" />
+    <state width="1561" height="274" key="GridCell.Tab.0.right/77.25.1603.1025@77.25.1603.1025" timestamp="1615030838827" />
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom" timestamp="1616956964453">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964453" />
+    <state width="887" height="342" key="GridCell.Tab.1.bottom/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108482" />
+    <state width="1638" height="342" key="GridCell.Tab.1.center" timestamp="1616956964453">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964453" />
+    <state width="887" height="342" key="GridCell.Tab.1.center/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108481" />
+    <state width="1638" height="342" key="GridCell.Tab.1.left" timestamp="1616956964452">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964452" />
+    <state width="887" height="342" key="GridCell.Tab.1.left/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108481" />
+    <state width="1638" height="342" key="GridCell.Tab.1.right" timestamp="1616956964453">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1616956964453" />
+    <state width="887" height="342" key="GridCell.Tab.1.right/71.25.1609.1025@71.25.1609.1025" timestamp="1615046108482" />
+    <state x="428" y="350" key="Performance.Activity.Monitor" timestamp="1608711197886">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="428" y="350" key="Performance.Activity.Monitor/0.25.1680.942@0.25.1680.942" timestamp="1608711197886" />
+    <state x="356" y="141" key="SettingsEditor" timestamp="1616574127714">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="356" y="141" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1616574127714" />
+    <state x="218" y="129" key="SettingsEditor/0.25.1680.934@0.25.1680.934" timestamp="1614310895823" />
+    <state x="349" y="129" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1608711717358" />
+    <state x="277" y="139" key="SettingsEditor/68.25.1612.1025@68.25.1612.1025" timestamp="1615032239144" />
+    <state x="764" y="270" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615040917955">
+      <screen x="71" y="25" width="1609" height="1025" />
+    </state>
+    <state x="764" y="270" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/71.25.1609.1025@71.25.1609.1025" timestamp="1615040917955" />
+    <state x="975" y="126" width="597" height="822" key="find.popup" timestamp="1615709547708">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="975" y="126" width="597" height="822" key="find.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1615709547708" />
+    <state x="911" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1616574085593">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="911" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1616574085593" />
+    <state x="1016" y="378" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615041123817">
+      <screen x="71" y="25" width="1609" height="1025" />
+    </state>
+    <state x="1016" y="378" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/71.25.1609.1025@71.25.1609.1025" timestamp="1615041123817" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
